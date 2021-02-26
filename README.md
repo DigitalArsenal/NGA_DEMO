@@ -1,6 +1,11 @@
 # NGA_DEMO
 
-##  c137.js (free version no performance benefits, time-dynamic imagery providers, space propagation)
+##  c137.js
+
+-  free version 
+-  no performance benefits, 
+-  no time-dynamic imagery providers
+-  no space object propagation
 
 [c137.js](https://www.npmjs.com/package/c137.js)
 
